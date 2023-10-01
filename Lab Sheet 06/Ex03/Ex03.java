@@ -19,6 +19,8 @@ public class Ex03 {
         for (Integer num : heights) {
             System.out.println(num);
         }
+
+        scanner.close();
     }
 
 }

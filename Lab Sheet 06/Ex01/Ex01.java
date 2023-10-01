@@ -27,6 +27,6 @@ public class Ex01 {
         }
 
         System.out.println("Total is " + total);
-
+        scanner.close();
     }
 }
