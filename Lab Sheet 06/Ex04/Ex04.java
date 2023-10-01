@@ -26,10 +26,8 @@ class Student {
 public class Ex04 {
     public static void main(String[] args) {
 
-        // Create a HashMap to store students by student number
         HashMap<String, Student> studentMap = new HashMap<>();
 
-        // Add students to the HashMap
         studentMap.put("IT101", new Student("IT101", "Kaveen Dinethma", 4));
         studentMap.put("IT102", new Student("IT102", "Sasindu Nadeeshan", 4));
         studentMap.put("IT103", new Student("IT103", "Erandi Amarasekara", 4));
