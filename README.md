@@ -1,5 +1,5 @@
 # Y2S1-OOP-Lab-Sheet-Tutorial-Answers
-Answers for Y2S1 OOP Lab sheets an Tutorials at SLIIT.
+Answers for Y2S1 OOP Lab sheets, Tutorials and Pastpapers at SLIIT.
 
 <h2>How to Contribute</h2>
 
